@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://walusimbieriasi22-del.github.io/kanyigo-secondary-school/sitemap.xml
